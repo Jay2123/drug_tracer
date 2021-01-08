@@ -1,0 +1,19 @@
+body {
+  background-color: royalblue;
+}
+
+.nav .nav-item {
+    padding: 10px 20px 0 0;
+}
+
+.nav .nav-item .link-color {
+  color: #ffffff;
+}
+
+.nav .nav-item .signup-btn {
+    background-color: #f5f5f5aa;
+    color: royalblue;
+    border-radius: 5px;
+}
+
+
