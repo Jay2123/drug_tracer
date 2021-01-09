@@ -3,7 +3,7 @@ body {
 }
 
 .nav .nav-item {
-    padding: 10px 20px 0 0;
+  padding: 10px 20px 0 0;
 }
 
 .nav .nav-item .link-color {
@@ -11,9 +11,16 @@ body {
 }
 
 .nav .nav-item .signup-btn {
-    background-color: #f5f5f5aa;
-    color: royalblue;
-    border-radius: 5px;
+  background-color: #f5f5f5aa;
+  color: royalblue;
+  border-radius: 5px;
 }
 
+ul.fixed {
+  position: fixed;
+  z-index: +1;
+}
 
+.slide .carousel-inner {
+  height: min-content;
+}
