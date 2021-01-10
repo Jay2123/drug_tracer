@@ -1,5 +1,6 @@
 body {
   background-color: royalblue;
+  height: 100vh;
 }
 
 .nav .nav-item {
@@ -11,8 +12,8 @@ body {
 }
 
 .nav .nav-item .signup-btn {
-  background-color: #f5f5f5aa;
-  color: royalblue;
+  background-color: #1b222a;
+  color: #f5f5f5;
   border-radius: 5px;
 }
 
